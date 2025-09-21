@@ -35,6 +35,8 @@ Ce que j’apprécie en Île-de-France, c’est la diversité : tu peux passer d
 
 [Retour à l'accueil](index.md)
 
-[maville](maville.md)
+[Ma ville](ma_ville.md)
 
-[mondepartement](mondepartment.md)
+[Mon department](mon_department.md)
+ 
+ 

@@ -17,6 +17,7 @@ Côté événements, il y a des festivals, des concerts, du sport… et même l�
 
 [Retour à l'accueil](index.md)
 
+<<<<<<< HEAD
 [maville](maville.md)
 
 [maregion](maregion.md)
@@ -25,3 +26,8 @@ Côté événements, il y a des festivals, des concerts, du sport… et même l�
 
 [Ma region](maregion.md)
 
+=======
+[Ma ville](ma_ville.md)
+
+[Ma region](ma_region.md)
+>>>>>>> b5a198b (Mettre à jour toutes les pages Markdown avec front matter pour Jekyll)

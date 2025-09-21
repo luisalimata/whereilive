@@ -12,12 +12,12 @@ Côté culture et sport :
 - L’**église du Saint-Esprit** (années 60, architecture moderne).  
 - Le **cinéma Le Calypso**, pour voir des films en ville.  
 - Le club de foot **ES Viry-Châtillon**, qui a fait connaître pas mal de bons joueurs !  
+[Viry-Chatillon Wiki](https://fr.wikipedia.org/wiki/Viry-Ch%C3%A2tillon)
 
- [Viry-Chatillon Wiki](https://fr.wikipedia.org/wiki/Viry-Ch%C3%A2tillon)
 
+[Retour à l'accueil](index.md)
 
--[Retour à l'accueil](index.md)
+[Mon department](mon_department.md)
 
--[mondepartement](mondepartment.md)
+[Ma region](ma_region.md)
 
--[maregion](maregion.md)
