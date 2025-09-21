@@ -31,3 +31,10 @@ On y trouve :
  Il y a énormément d’événements : expos, festivals, concerts, spectacles sportifs.  
 
 Ce que j’apprécie en Île-de-France, c’est la diversité : tu peux passer de l’hyper-urbain à des coins naturels en seulement quelques kilomètres.
+
+
+[Retour à l'accueil](index.md)
+
+[ma ville](maville.md)
+
+[mondepartement](mondepartment.md)
