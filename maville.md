@@ -16,8 +16,8 @@ Côté culture et sport :
  [Viry-Chatillon Wiki](https://fr.wikipedia.org/wiki/Viry-Ch%C3%A2tillon)
 
 
- [Retour à l'accueil](index.md)
+-[Retour à l'accueil](index.md)
 
-[mondepartement](mondepartment.md)
+-[mondepartement](mondepartment.md)
 
-[maregion](maregion.md)
+-[maregion](maregion.md)
