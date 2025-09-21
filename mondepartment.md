@@ -17,12 +17,11 @@ Côté événements, il y a des festivals, des concerts, du sport… et même l�
 
 [Retour à l'accueil](index.md)
 
-<<<<<<< HEAD
 [maville](maville.md)
 
 [maregion](maregion.md)
-=======
+
 [Ma ville](maville.md)
 
 [Ma region](maregion.md)
->>>>>>> 672ebed (ajoute les liens)
+
